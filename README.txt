@@ -17,5 +17,5 @@ Program selection potentiometer,
 Solenoid, to lock chamber door,
 GSM shield.
 
-[](https://github.com/matszal/3rdYearProjectFinal/blob/master/poster.jpg)
+![](https://github.com/matszal/3rdYearProjectFinal/blob/master/poster.jpg)
 
